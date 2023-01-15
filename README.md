@@ -1,7 +1,7 @@
 # simple-tictactoe-game
 Simple typescript tic tac toe game.
 
-<img src="https://raw.githubusercontent.com/mtwebworks/timetracker-app/main/screenshot/screenshot.png" width="800">
+<img src="https://github.com/mtwebworks/simple-tictactoe-game/blob/main/Screenshot/screenshot.png?raw=true" width="800">
 
 ## Instalation
 ### npm
